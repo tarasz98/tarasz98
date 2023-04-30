@@ -2,14 +2,11 @@
 
 My name is Taras and I am an enthusiast of the Machine Learning and Deep Learning worlds. Specifically, its application to robotics and computer vision. Within my repositories, you can find, class projects, forked repositories for my master's thesis and repositories from online-learning. 💻
 
-You can also follow me on LinkedIn or Kaggle: 
+You can also follow me on LinkedIn: 
 <p>
   <a href="https://www.linkedin.com/in/taraszykov/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-  <a href="https://www.kaggle.com/taraszykov" rel="nofollow noreferrer">
-    <img src="https://icons8.com/icon/Omk4fWoSmCHm/kaggle-an-online-community-of-data-scientists-and-machine-learners%2C-owned-by-google" alt="kaggle"> Kaggle
-  </a>
 </p>
 
 <!--
