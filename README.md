@@ -8,7 +8,7 @@ You can also follow me on LinkedIn or Kaggle:
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
   <a href="https://www.kaggle.com/taraszykov" rel="nofollow noreferrer">
-    <img src="![image](https://user-images.githubusercontent.com/64307784/235355255-6647ffdb-ef5d-46e0-9403-53072dc4eff5.png)" alt="kaggle"> Kaggle
+    <img src="https://user-images.githubusercontent.com/64307784/235355255-6647ffdb-ef5d-46e0-9403-53072dc4eff5.png" alt="kaggle"> Kaggle
   </a>
 </p>
 
